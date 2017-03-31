@@ -1,1 +1,2 @@
-SELECT RecID, SenderName, SenderAddress, RecName, RecAddress FROM recipients
+SELECT RecID, SenderName, SenderAddress, RecName, RecAddress 
+FROM recipients
