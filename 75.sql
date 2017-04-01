@@ -1,0 +1,3 @@
+SELECT *
+FROM Stationery
+WHERE Price BETWEEN 8 AND 15
